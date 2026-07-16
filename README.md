@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=150&section=header&text=Vishnu%20Pradeep&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Data%20Scientist&descAlignY=65&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=150&section=header&text=Vishnu%20Pradeep&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Data%20Science%20Student&descAlignY=65&descSize=16" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=2A5298&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Python+%7C+SQL+%7C+C;Turning+Ideas+Into+Real+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=2A5298&center=true&vCenter=true&width=600&lines=Data+Science+Student;Python+%7C+SQL+%7C+Data+Analysis;Turning+Ideas+Into+Real+Projects" alt="Typing SVG" />
 
 <br>
 <br>
@@ -22,17 +22,17 @@
 
 <br>
 
-I'm a Computer Science student building a strong foundation in data science and software development, with a passion for turning ideas into real, working projects. I like breaking problems down, experimenting with data, and shipping things that actually work.
+I'm a Data Science student building a strong foundation in data analysis and software development, with a passion for turning ideas into real, working projects. I like breaking problems down, experimenting with data, and shipping things that actually work.
 
 <br>
 
-- 🎓 Studying Computer Science, with a focus on data-driven problem solving
+- 🎓 Studying Data Science, with a focus on data-driven problem solving
 
-- 🌱 Learning **Python, Data Science, Machine Learning, SQL, Flask, PostgreSQL**
+- 🌱 Learning **Python, Data Science, SQL, Flask, PostgreSQL**
 
 - 👯 Looking to collaborate on **Open Source Python, Data Science & Web Development projects**
 
-- 🤝 Open to **Data Science, Machine Learning & Full Stack Development** opportunities
+- 🤝 Open to **Data Science & Full Stack Development** opportunities
 
 - 💬 Ask me about **Python, SQL, Flask, HTML/CSS, DBMS, Data Analysis**
 
