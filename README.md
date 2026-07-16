@@ -1,24 +1,44 @@
-<h1 align="center">Hi 👋, I'm Vishnu Pradeep</h1>
-<h3 align="center">A passionate Computer Science student and aspiring Data Scientist.</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Python, Data Science, Machine Learning, SQL, Flask, PostgreSQL, Git & GitHub**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=170&section=header&text=Vishnu%20Pradeep&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Data%20Scientist&descAlignY=62&descSize=16" width="100%"/>
 
-- 👯 I’m looking to collaborate on **Open Source Python, Data Science & Web Development Projects**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8E2DE2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnu-pradeep-41b65932a)
+[![Gmail](https://img.shields.io/badge/Email-4A00E0?style=flat-square&logo=gmail&logoColor=white)](mailto:vishnupradeep2102006@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vishnupradeep-vp)
 
-- 🤝 I’m looking for help with **Machine Learning & Full Stack Development Projects**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/vishnupradeep-vp](https://github.com/vishnupradeep-vp)
+<br>
 
-- 💬 Ask me about **Python, SQL, Flask, HTML, CSS, Database Management Systems, Data Analysis**
+### 👋 About Me
 
-- 📫 How to reach me **vishnupradeep2102006@gmail.com**
+I'm a Computer Science student building a strong foundation in data science and software development, with a passion for turning ideas into real, working projects.
 
-- ⚡ Fun fact **I enjoy solving coding problems and turning ideas into real-world projects.**
+- 🌱 Learning **Python, Data Science, Machine Learning, SQL, Flask, PostgreSQL**
+- 🤝 Open to **Data Science, ML & Full Stack Development** opportunities
+- 📫 Reach me at **vishnupradeep2102006@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vishnu-pradeep-41b65932a?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishnu-pradeep-41b65932a?utm_source=share_via&utm_content=profile&utm_medium=member_ios" height="30" width="40" /></a>
+<br>
+
+### 🛠️ Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,flask,mysql,postgres,mongodb,git,github" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnupradeep-vp&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupradeep-vp&layout=compact&theme=radical&hide_border=true" width="48%"/>
+</p>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=90&section=footer" width="100%"/>
+
+</div>
